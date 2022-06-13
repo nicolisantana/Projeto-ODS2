@@ -1,0 +1,104 @@
+.fundo{
+    position: relative;
+width: 2197px;
+height: 5422px;
+
+background: linear-gradient(180deg, #000000 0%, #A87D0E 100%);
+}
+.rodape{
+    position: absolute;
+width: 2197px;
+height: 451px;
+left: 0px;
+top: 4971px;
+
+background: #000000;
+}
+.imgo{
+    position: absolute;
+width: 280.25px;
+height: 286.74px;
+left: -4px;
+top: -0.28px;
+
+background: url(ods2.png);
+transform: rotate(-0.76deg);
+}
+.bolinha{
+    border-radius: 100px;
+    position: absolute;
+    width: 163px;
+    height: 132px;
+    left: 1800px;
+    top: 93px;
+    
+    background: linear-gradient(180deg, #CEA02B 26.56%, #000000 96.87%);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.titulo{
+    position: absolute;
+    width: 1403px;
+    height: 149px;
+    left: 321px;
+    top: 286px;
+
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 100px;
+    line-height: 48px;
+
+    color: #BA9432;
+}
+.menino{
+    position: absolute;
+width: 839px;
+height: 634px;
+left: 0px;
+top: 487px;
+
+background: url(menino.jpg);
+}
+.re1{
+    position: absolute;
+width: 1109px;
+height: 920px;
+left: 1000px;
+top: 603px;
+
+background: #5C5A5A;
+}
+.text1{
+    position: absolute;
+width: 1091px;
+height: 1445px;
+left: 20px;
+top: -60px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 84px;
+
+color: #EEB41F;
+
+}
+.re2{
+    position: absolute;
+width: 1265px;
+height: 1026px;
+left: 0px;
+top: 1532px;
+
+background: #5C5A5A;
+}
+.ind{
+    position: absolute;
+    width: 1267px;
+    height: 667px;
+    left: 788px;
+    top: 2712px;
+
+    background: url(ind.jpg);
+}
