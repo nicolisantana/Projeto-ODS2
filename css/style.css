@@ -102,3 +102,27 @@ background: #5C5A5A;
 
     background: url(ind.jpg);
 }
+.re3{
+    position: absolute;
+width: 1200px;
+height: 782px;
+left: -4px;
+top: 2969px;
+
+background: #5C5A5A;
+}
+.re4{
+    position: absolute;
+width: 1790px;
+height: 844px;
+left: 183px;
+top: 3844px;
+
+background: #5C5A5A;
+
+}
+.link{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    font-size: 500%;
+}
