@@ -62,7 +62,7 @@ background: url(menino.jpg);
 .re1{
     position: absolute;
 width: 1109px;
-height: 920px;
+height: 2040px;
 left: 1000px;
 top: 603px;
 
@@ -125,4 +125,24 @@ background: #5C5A5A;
     font-family: 'Courier New', Courier, monospace;
     color: #ffffff;
     font-size: 500%;
+}
+
+.introducao{
+    font-size: 70%;
+    
+}
+.meta{
+    font-size: 70%;
+    position: absolute;
+    width: 1091px;
+    height: 1445px;
+    left: 20px;
+    top: -60px;
+
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 800;
+    line-height: 84px;
+
+    color: #EEB41F;
 }
