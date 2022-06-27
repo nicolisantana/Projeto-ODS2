@@ -1,9 +1,9 @@
-.fundo{
+.wrapper{
     position: relative;
-width: 1657px;
-height: 3488px;
-
-background: linear-gradient(180deg, #DDB834 0%, #000000 90.1%);
+    width: 100%;
+    height: 3488px;
+    
+    background: linear-gradient(180deg, #000000 0%, #927C31 53.65%, #000000 100%);
 }
 
 .titulo1{
@@ -75,8 +75,8 @@ border-radius: 95px;
     position: absolute;
 width: 904px;
 height: 523px;
-left: 60px;
-top: 40px;
+left: 400px;
+top: 200px;
 
 font-family: 'Inika';
 font-style: normal;
@@ -86,6 +86,21 @@ line-height: 63px;
 
 color: #FFFFFF;
 
+}
+.ct1{
+        position: absolute;
+    width: 904px;
+    height: 523px;
+    left: 400px;
+    top: 200px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 63px;
+    
+    color: #FFFFFF;
 }
 
 .re2{
@@ -104,8 +119,8 @@ border-radius: 95px;
     position: absolute;
 width: 662px;
 height: 1063px;
-left: 40px;
-top: 100px;
+left: 100px;
+top: 900px;
 
 font-family: 'Inika';
 font-style: normal;
@@ -116,17 +131,17 @@ line-height: 42px;
 color: #FFFFFF;
 }
 
-.re3{
-    position: absolute;
-width: 666px;
-height: 577px;
-left: 944px;
-top: 831px;
 
-background: rgba(0, 0, 0, 0.58);
-mix-blend-mode: darken;
-border-radius: 95px;
-}
+
+#IframePosicao {
+    position: absolute;
+    overflow:auto;
+    top: 1100px;
+    left: 1100px;
+    z-index: 5;
+    margin-top: -155px;
+    margin-left: -200px;
+  }
 
 .re4{
     position: absolute;
@@ -191,7 +206,7 @@ border-radius: 85px;
     position: absolute;
 width: 382px;
 height: 828px;
-left: 1133px;
+left: 1100px;
 top: 2179px;
 
 font-family: 'Inika';
@@ -227,12 +242,13 @@ transform: rotate(-0.22deg);
 
 .b1{
     position: absolute;
-width: 68px;
-height: 69px;
-left: 961px;
-top: 2119px;
-border-radius: 100%;
-background: #7B630E;
+    width: 68px;
+    height: 69px;
+    left: 961px;
+    top: 2119px;
+    border-radius: 100%;
+    
+    background: #E8BD28;
 }
 
 .b2{
@@ -242,7 +258,8 @@ height: 69px;
 left: 58px;
 top: 2134px;
 border-radius: 100%;
-background: #7B630E;
+
+background: #E8BD28;
 }
 
 #ind{
@@ -285,4 +302,9 @@ font-size: 96px;
 line-height: 125px;
 
 color: #FFFFFF;
+}
+
+.link{
+    color: #E8BD28;
+    rotate: 3000px;
 }
