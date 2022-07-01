@@ -40,7 +40,7 @@ color: #E8BD28;
 
 .cima{
     position: absolute;
-width: 1657px;
+width: 1567px;
 height: 200px;
 left: 0px;
 top: 0px;
@@ -137,7 +137,7 @@ color: #FFFFFF;
     position: absolute;
     overflow:auto;
     top: 1100px;
-    left: 1100px;
+    left: 1000px;
     z-index: 5;
     margin-top: -155px;
     margin-left: -200px;
